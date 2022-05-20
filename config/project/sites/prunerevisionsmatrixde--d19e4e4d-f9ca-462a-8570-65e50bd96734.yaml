@@ -1,0 +1,9 @@
+baseUrl: '@web/de/'
+enabled: '1'
+handle: prunerevisionsmatrixde
+hasUrls: true
+language: de
+name: PruneRevisionsMatrixDE
+primary: false
+siteGroup: e51fd02a-a5c5-4291-88a6-e54f4e993744 # PruneRevisionsMatrix
+sortOrder: 2

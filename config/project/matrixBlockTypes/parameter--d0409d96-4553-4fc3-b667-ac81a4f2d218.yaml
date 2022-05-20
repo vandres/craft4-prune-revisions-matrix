@@ -1,0 +1,72 @@
+field: 6f88735f-d41c-4e41-9689-c5bacd8289fc # Parameter
+fieldLayouts:
+  ede5261c-1913-465b-b257-05e1b481254b:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 901835fb-15bb-4917-bdd8-0e96dc0100d2 # Parameter-Name
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c2a9c171-0427-412f-abfd-5566557c3b38
+            warning: null
+            width: 100
+          -
+            fieldUid: beaf3e23-368f-4935-9328-40606809d9bc # Parameter-Value
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1f33852f-c681-4d03-9a5c-89ece64afa13
+            warning: null
+            width: 100
+        name: Content
+        uid: b7658fb6-aede-4794-a4ac-b2861f6ab271
+fields:
+  901835fb-15bb-4917-bdd8-0e96dc0100d2: # Parameter-Name
+    columnSuffix: awrtisyp
+    contentColumnType: text
+    fieldGroup: null
+    handle: parameterName
+    instructions: null
+    name: Parameter-Name
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  beaf3e23-368f-4935-9328-40606809d9bc: # Parameter-Value
+    columnSuffix: jwemkcci
+    contentColumnType: text
+    fieldGroup: null
+    handle: parameterValue
+    instructions: null
+    name: Parameter-Value
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: parameter
+name: Parameter
+sortOrder: 1

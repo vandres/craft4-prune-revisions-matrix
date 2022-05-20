@@ -1,0 +1,29 @@
+dateModified: 1653027085
+email:
+  fromEmail: andres@voan.ch
+  fromName: PruneRevisionsMatrix
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0c18c298-5b23-4595-87b9-080cf00b6123: Home # Home
+    6f88735f-d41c-4e41-9689-c5bacd8289fc: Parameter # Parameter
+    8bdcfa7c-982f-47df-bd2e-bf48e43de9d6: Common # Common
+    901835fb-15bb-4917-bdd8-0e96dc0100d2: Parameter-Name # Parameter-Name
+    ae64ce60-e2e8-4297-a182-841461882e2e: PruneRevisionsMatrix # PruneRevisionsMatrix
+    beaf3e23-368f-4935-9328-40606809d9bc: Parameter-Value # Parameter-Value
+    bee5aa4a-febf-4a05-8909-1fc9ffa82280: Home # Home
+    d0409d96-4553-4fc3-b667-ac81a4f2d218: Parameter # Parameter
+    d19e4e4d-f9ca-462a-8570-65e50bd96734: PruneRevisionsMatrixDE # PruneRevisionsMatrixDE
+    e51fd02a-a5c5-4291-88a6-e54f4e993744: PruneRevisionsMatrix # PruneRevisionsMatrix
+system:
+  edition: solo
+  live: true
+  name: PruneRevisionsMatrix
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
